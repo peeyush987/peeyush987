@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=00D964&center=true&vCenter=true&width=650&lines=Building+a+limit+order+book+matching+engine+in+C%2B%2B;Move+semantics+%C2%B7+RAII+%C2%B7+STL+internals+%C2%B7+cache-aware+design;Chasing+low-latency%2C+high-performance+systems;Actively+competing+on+Codeforces" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=00D964&center=true&vCenter=true&width=750&height=60&lines=Building+a+limit+order+book+in+C%2B%2B;Move+semantics+%C2%B7+RAII+%C2%B7+STL+internals;Chasing+low-latency%2C+high-performance+systems;Actively+competing+on+Codeforces" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ### Currently Building
 
-**[Limit Order Book — Matching Engine](https://github.com/peeyush987/peeyush987)**
+**[Limit Order Book — Matching Engine](https://github.com/peeyush987/YOUR-REPO-NAME)**
 A C++ limit order book implementing price-time priority matching, partial fills, and order cancellation/modification, built to understand real exchange-matching-engine design tradeoffs.
 
 <br/>
@@ -47,7 +47,7 @@ A C++ limit order book implementing price-time priority matching, partial fills,
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=peeyush987&theme=dark&hide_border=true&background=0B0E11&ring=00D964&fire=F5A623&currStreakLabel=00D964" />
+<img src="https://github-profile-trophy.vercel.app/?username=peeyush987&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </div>
 
 <br/>
