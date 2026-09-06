@@ -26,7 +26,7 @@
 
 ### Currently Building
 
-**[Limit Order Book — Matching Engine](https://github.com/peeyush987/YOUR-REPO-NAME)**
+**[Limit Order Book — Matching Engine](https://github.com/peeyush987/peeyush987)**
 A C++ limit order book implementing price-time priority matching, partial fills, and order cancellation/modification, built to understand real exchange-matching-engine design tradeoffs.
 
 <br/>
@@ -39,27 +39,3 @@ A C++ limit order book implementing price-time priority matching, partial fills,
 
 <br/>
 
-### GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=peeyush987&show_icons=true&theme=dark&hide_border=true&bg_color=0B0E11&title_color=00D964&icon_color=F5A623&text_color=E8ECEF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeyush987&layout=compact&theme=dark&hide_border=true&bg_color=0B0E11&title_color=00D964&text_color=E8ECEF" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=peeyush987&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</div>
-
-<br/>
-
-### Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/peeyush987/peeyush987/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
-<sub>Building toward high-performance systems — one order book, one Codeforces contest at a time.</sub>
-</div>
